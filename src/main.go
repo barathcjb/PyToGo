@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	//test samples
 	d := config.Dictionary{}
 	d.Set("name", "barathwaj")
 	lt := config.List{}
